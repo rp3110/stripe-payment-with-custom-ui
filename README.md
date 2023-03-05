@@ -1,6 +1,6 @@
 # Stripe card payment with custom Ui in flutter
 
-[![stripe](https://bitbucket.org/rutu31/stripe_payment_with_custom_ui/raw/23fc0b79acf2c3987d3e592d4934b0ce07ddcb65/screenshot/stripe_logo.png "stripe")](https://bitbucket.org/rutu31/stripe_payment_with_custom_ui/raw/23fc0b79acf2c3987d3e592d4934b0ce07ddcb65/screenshot/stripe_logo.png "stripe")
+[![stripe](https://github.com/rp3110/stripe-payment-with-customiui/blob/main/screenshot/stripe_logo.png "stripe")
 
 With the use of ***[flutter_stripe](https://pub.dev/packages/flutter_stripe)*** we can easily implement ***Stripe Payment***  with the default UI. But what if we want to use it in a different style? So, in this flutter app, I have implemented Stripe with a custom UI.
 
